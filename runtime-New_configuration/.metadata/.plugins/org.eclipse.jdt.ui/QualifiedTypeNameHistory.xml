@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.Instruction"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="fr.obeo.dsl.tuto.mindstorms.Instruction"/>
+<fullyQualifiedTypeName name="fr.obeo.dsl.tuto.mindstorms.Choreography"/>
+</qualifiedTypeNameHistroy>
